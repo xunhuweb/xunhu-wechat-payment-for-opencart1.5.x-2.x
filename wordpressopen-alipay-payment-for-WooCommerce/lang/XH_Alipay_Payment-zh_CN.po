@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 迅虎商店\n"
+"POT-Creation-Date: 2018-03-19 09:56+0800\n"
+"PO-Revision-Date: 2018-03-19 09:57+0800\n"
+"Last-Translator: ranj <ranj@evget.com>\n"
+"Language-Team: 重庆迅虎网络有限公司 <jeff@xunhuweb.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-alipay-wc-payment-gateway.php:11
+#: class-alipay-wc-payment-gateway.php:284
+msgid "Alipay Payment"
+msgstr "支付宝"
+
+#: class-alipay-wc-payment-gateway.php:12
+msgid ""
+"Helps to add Alipay payment gateway that supports the features including QR "
+"code payment."
+msgstr "支付宝网关支付提供二维码扫描支付，H5本地支持，汇率换算等功能。"
+
+#: class-alipay-wc-payment-gateway.php:141
+msgid "Invalid sign!"
+msgstr "错误的签名！"
+
+#: class-alipay-wc-payment-gateway.php:275
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+#: class-alipay-wc-payment-gateway.php:277
+msgid "Enable/Disable the alipay payment"
+msgstr "启用/禁用支付宝"
+
+#: class-alipay-wc-payment-gateway.php:282
+msgid "Payment gateway title"
+msgstr "支付网关标题"
+
+#: class-alipay-wc-payment-gateway.php:290
+msgid "Payment gateway description"
+msgstr "支付网关描述"
+
+#: class-alipay-wc-payment-gateway.php:292
+msgid "QR code payment or OA native payment, credit card"
+msgstr "二维码扫描支付或H5本地支付，信用卡支付"
+
+#: class-alipay-wc-payment-gateway.php:298
+msgid "Instructions"
+msgstr "介绍"
+
+#: class-alipay-wc-payment-gateway.php:301
+msgid "Instructions that will be added to the thank you page."
+msgstr "介绍信息会在“Thank you”页面显示"
+
+#: class-alipay-wc-payment-gateway.php:306
+msgid "APP ID"
+msgstr "APP ID"
+
+#: class-alipay-wc-payment-gateway.php:311
+msgid ""
+"<a target=\"_blank\" href=\"http://cp.wordpressopen.com\">register and get "
+"app id</a>."
+msgstr ""
+"<a target=\"_blank\" href=\"http://cp.wordpressopen.com\">注册并获取APP ID</"
+"a>."
+
+#: class-alipay-wc-payment-gateway.php:314
+msgid "APP Secret"
+msgstr "APP Secret"
+
+#: class-alipay-wc-payment-gateway.php:321
+msgid "Transaction Url"
+msgstr "网关地址"
+
+#: class-alipay-wc-payment-gateway.php:328
+msgid "Exchange Rate"
+msgstr "汇率"
+
+#: class-alipay-wc-payment-gateway.php:331
+msgid "Set the exchange rate to RMB. When it is RMB, the default is 1"
+msgstr "设置转换成人民币的汇率，当前货币为人民币时，汇率默认等于1"
+
+#: init.php:25
+msgid "Settings"
+msgstr "设置"
+
+#~ msgid "Disabled In Wechat"
+#~ msgstr "微信中禁用"
