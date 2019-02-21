@@ -157,7 +157,7 @@ class Controllerextensionpaymentxhopenwechat extends Controller
         }
         
         if(empty($data['xhopenwechat_transaction_url'] )){
-            $data['xhopenwechat_transaction_url'] ='https://pay.xunhupay.com';
+            $data['xhopenwechat_transaction_url'] ='https://pay2.xunhupay.com/v2';
         }
         //rate
         if (isset($this->request->post['xhopenwechat_rate'])) {
